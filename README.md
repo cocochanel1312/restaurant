@@ -6,4 +6,4 @@
 
 #
 
-### `Watch demo` _[Restaurant-website](https://cocochanel1312.github.io/Restaurant-website/)_
+### `Watch demo` _[Restaurant-website](https://cocochanel1312.github.io/restaurant/)_
